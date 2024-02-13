@@ -1,1 +1,1 @@
-<i>🙋‍♂️ Myself Samit, full-stack developer and DevOps enthusiast 🤞</i>
+<i> This is my alter ego 🧢 </i>
